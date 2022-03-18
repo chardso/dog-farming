@@ -6,3 +6,4 @@ dogs can bite
 it can be dangerous to pass the other compoundz
 # feeds
 - food remains from hotels
+- bones from butchers
